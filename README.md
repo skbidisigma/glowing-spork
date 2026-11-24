@@ -7,11 +7,11 @@ Die Wanne hat zwei seitliche Motorfächer am Heck, einen Bereich für den Akku u
 | Druckteil | Anzahl | Maße oder Funktion |
 | --- | ---: | --- |
 | [Wanne](stl/wanne.stl) | 1 | 190 × 104 × 40 mm am Wannenrand, 136,8 mm breit an den Schraublaschen |
-| [Karosserie am Stück](stl/karosserie.stl) | 1 | 233 × 164 × 92 mm |
-| [Karosserie vorne](stl/karosserie_vorne.stl) und [hinten](stl/karosserie_hinten.stl) | je 1 | Alternative zur einteiligen Karosserie, jede Hälfte hat zwei Schraubpunkte |
+| [Karosserie vorne](stl/karosserie_vorne.stl) | 1 | Zwei Schraubpunkte |
+| [Karosserie hinten](stl/karosserie_hinten.stl) | 1 | Zwei Schraubpunkte |
 | [Vorderrad](stl/rad_vorne.stl) | 2 | Ø 65 × 24 mm, Ø 3,6 mm Achsbohrung |
 | [Hinterrad](stl/rad_hinten.stl) | 2 | Ø 65 × 24 mm, doppelt abgeflachte Aufnahme 3,8 × 5,5 mm |
-| [Distanzring](stl/distanzring_1_5mm.stl) | bei Bedarf 2 | 1,5 mm dick, für die Vorderachse |
+| [Distanzring](stl/distanzring_1_5mm.stl) | 2 | 1,5 mm dick, für die Vorderachse |
 
 ## Platz für die Technik
 
@@ -27,9 +27,9 @@ Die beiden Motorwellenschlitze sind nach oben offen und jeweils 7,5 mm breit. Di
 
 ## Drucken und montieren
 
-1. STL-Dateien in Millimetern importieren. Die Wanne und Distanzringe mit der Unterseite und die Räder mit der flachen Außenseite auf das Druckbett legen. Bei der Karosserie im Slicer Stützen unter den inneren Schraubauflagen und bei Bedarf unter den übrigen Überhängen vorsehen. Die einteilige und die geteilte Karosserie sind alternative Drucksätze.
+1. STL-Dateien in Millimetern importieren. Die Wanne und Distanzringe mit der Unterseite und die Räder mit der flachen Außenseite auf das Druckbett legen. Bei der Karosserie im Slicer Stützen unter den inneren Schraubauflagen und bei Bedarf unter den übrigen Überhängen vorsehen.
 2. Die Motoren in die Seitenfächer einsetzen, die Wellen durch die offenen Schlitze führen und die Motoren befestigen. Die Hinterräder auf die passenden Wellen setzen. Rund 1,5 mm Abstand zwischen Rad und Wanne wurden digital geprüft. Das nötige Spiel hängt von der tatsächlichen Welle und dem Druck ab.
 3. Vorn eine 3-mm-Achse einsetzen, die Räder mit etwas seitlichem Spiel montieren und gegen Abrutschen sichern. Die Distanzringe halten die Vorderräder von der Wanne fern. Beide Vorderräder sollen sich von Hand frei drehen.
-4. Technik befestigen und Leitungen aus den Rad- und Achsbereichen führen. Vier M3-Sechskantmuttern von oben in die Taschen der Karosserie einsetzen. Die Karosserie aufsetzen und mit vier M3 × 12 mm Schrauben von unten befestigen. Bei der geteilten Variante beträgt die Fuge im Modell 0,28 mm.
+4. Technik befestigen und Leitungen aus den Rad- und Achsbereichen führen. Vier M3-Sechskantmuttern von oben in die Taschen der Karosserie einsetzen. Die Karosserie aufsetzen und mit vier M3 × 12 mm Schrauben von unten befestigen. Die Fuge zwischen den beiden Karosseriehälften beträgt im Modell 0,28 mm.
 
-Alle sieben STL-Dateien wurden auf geschlossene Netze und geschlossene Schnittkonturen in 0,2-mm-Abständen geprüft. Der Zusammenbau, die Radfreigängigkeit und die angegebenen Bauraumquader wurden digital geprüft. Drucktoleranzen und der Sitz der tatsächlichen Komponenten lassen sich an einem physischen Probedruck beurteilen.
+Alle sechs STL-Dateien wurden auf geschlossene Netze und geschlossene Schnittkonturen in 0,2-mm-Abständen geprüft. Der Zusammenbau, die Radfreigängigkeit und die angegebenen Bauraumquader wurden digital geprüft. Drucktoleranzen und der Sitz der tatsächlichen Komponenten lassen sich an einem physischen Probedruck beurteilen.
